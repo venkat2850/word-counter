@@ -1,0 +1,6 @@
+
+
+
+s=input("sentence :- ")
+w=s.split()
+print(len(w))
